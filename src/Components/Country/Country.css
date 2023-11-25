@@ -1,0 +1,13 @@
+.single-country {
+  padding: 10px;
+  border: 1px solid salmon;
+  border-radius: 20px;
+}
+.single-country img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+/* .language {
+  
+} */
